@@ -7,6 +7,13 @@ body {
   display: block;
   margin: 8px;
 }
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
 h1 {
   text-align: center;
 }
@@ -21,10 +28,4 @@ h1 {
 }
 p {
   text-align: center;
-}
-.croissant-photo {
-  max-width: 100%;
-  border-radius: 10px;
-  display: block;
-  margin: 30px auto;
 }
